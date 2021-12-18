@@ -252,7 +252,7 @@ int main(){
 				break;
 				
 			default:
-				cout<<"\n\n[!] Invalid Input.\Please enter again.\n\n";
+				cout<<"\n\n[!] Invalid Input.\nPlease enter again.\n\n";
 				break;
 			
 		}
